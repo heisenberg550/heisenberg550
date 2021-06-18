@@ -1,8 +1,7 @@
-### Hi there 👋
-
+### I am on my way to learn AI and Robotics. I also love to spend time working on a Front-End project combine it with AI.
+- 🌱 I’m currently learning JavaScript.
 <!--
 **heisenberg550/heisenberg550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I am on my way to learn AI and Robotics. I also love to spend time working on a Front-End project combine it with AI.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
